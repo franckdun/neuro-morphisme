@@ -1,5 +1,5 @@
 # neuro-morphisme
 
-projet d'éléments
+magnifiques éléments faciles à faire.
 
-[![ici](./src/bouton.PNG)](https://franckdun.github.io/neuro-morphisme/)
+[![ici](./src/css/bouton.PNG)](https://franckdun.github.io/neuro-morphisme/)
